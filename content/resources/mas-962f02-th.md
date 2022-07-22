@@ -9,10 +9,10 @@ image_metadata:
   image-alt: A photo of a computer screen with several overlapping application windows
     open, each displaying text.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Computers and their Language (thumbnail)
 uid: 5bf80bab-c742-fb3d-1740-dff1369eb0e8
 ---
 Photo of code on a computer screen. (Photo ? openphoto.net.)
-

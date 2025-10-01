@@ -84,7 +84,7 @@ Selections
 
 
 *   Gardenfors, P. _Conceptual Spaces_. MIT Press, 2000. Excerpts.
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262527309) Regier, T. The Human Semantic Potential: Spatial Language and Constrained Connectionism. Cambridge, MA: MIT Press, 1996. ISBN: 9780262527309.
+*   {{% resource_link "8a899408-1445-4312-a541-3c43ad75201e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Regier, T. The Human Semantic Potential: Spatial Language and Constrained Connectionism. Cambridge, MA: MIT Press, 1996. ISBN: 9780262527309.
 *   Roy, D. "Learning Visually Grounded Words and Syntax of Natural Spoken Language." _Evolution of Communication._ 4(1) (2001/2002)_._
 
 
@@ -126,7 +126,7 @@ Selections
 
 
 *   Allen, J. "Natural language understanding." _Benjamin Cummings_ (1994). Excerpts.
-*   Meuller, Erik T. [_ThoughtTreasure: A natural language/commonsense platform_](http://www.gregdetre.co.uk/notes/reactions%20-%20mas%20962,%20mueller.htm). 2002.
+*   Meuller, Erik T. {{% resource_link "d5467721-0324-4f8f-b3bc-2cdd7434c443" "_ThoughtTreasure: A natural language/commonsense platform_" %}}. 2002.
 
 
 {{< tdclose >}}

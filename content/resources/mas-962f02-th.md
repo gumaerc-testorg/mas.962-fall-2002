@@ -5,7 +5,8 @@ file: /ol-ocw-studio-app/courses/mas-962-special-topics-in-media-technology-comp
 file_size: 5948
 file_type: image/jpeg
 image_metadata:
-  caption: Computers and their language. (Photo courtesy of [openphoto.net](http://openphoto.net/).)
+  caption: Computers and their language. (Photo courtesy of {{% resource_link "114aafc0-e051-4288-b877-695d20355601"
+    "openphoto.net" %}}.)
   credit: ''
   image-alt: A photo of a computer screen with several overlapping application windows
     open, each displaying text.
